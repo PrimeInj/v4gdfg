@@ -35,7 +35,7 @@ function gpt() {
 
 function nf() {
   alert('This app is still in development.\nCheck discord.gg/unblocking for details.');
-  /*  document.title = 'Doge | V4';
+  /*  document.title = 'DW | V4';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
   document.head.appendChild(cloakcheckScript);
@@ -159,6 +159,10 @@ function onevone() {
   openAg('https://1v1.lol', "1v1");
 }
 
+function csgo() {
+  openAg('https://dwunblockedgame.netlify.app/csgoclicker/', "csgo");
+}
+
 function basketBros() {
   openAg('https://derpman.codeberg.page/echo/@main/basketbros-io/', "BasketBros");
 }
@@ -225,7 +229,7 @@ function cookieClicker() {
 }
 
 function rBowl() {
-  document.title = 'Doge | V4';
+  document.title = 'DW | V4';
   var cloakcheckScript = document.createElement("script");
   cloakcheckScript.src = "/assets/js/cloak.js";
   document.head.appendChild(cloakcheckScript);

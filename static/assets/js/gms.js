@@ -102,6 +102,7 @@ var gms = {
   'Eaglercraft (1.8)': { imageUrl: "/assets/img/eaglercraft.webp", onClick: eaglerCraft18, height: 130 },
   'Kick The Buddy': { imageUrl: "/assets/img/super-buddy-kick.webp", onClick: kickTheBuddy, height: 130 },
   'There is No Game': { imageUrl: "/assets/img/there-is-no-gms.webp", onClick: thereIsNoGame, height: 130 },
+  'CSGO CLICKER': { imageUrl: "/assets/img/case1.png", onClick: csgo, height: 130 },
 };
 
 for (var gmsName in gms) {

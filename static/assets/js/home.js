@@ -43,9 +43,9 @@ const options = [
     "About:Blank Cloak is highly recommended",
     "Finally, an actual site unblocker that works fast!",
     "It is not recommended to share this link with anyone.",
-    "discord.gg/unblocking for more",
-    "© Copyright 2024 Doge Network. All Rights Reserved.",
-    "Customize Doge by going to Settings > Themes",
+    "https://discord.gg/WAgGaaafUu for more",
+    "© Copyright 2024 DW Network. All Rights Reserved.",
+    "Customize DW by going to Settings > Themes",
 ];
 
 function getRandomOption() {
